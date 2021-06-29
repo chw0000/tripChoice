@@ -1,2 +1,0 @@
-# tripChoice
-Frist repository project
